@@ -9,6 +9,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Black Bean, Potato, and Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md)
     * [Cabbage Tacos (v)](/full_tacos/vegan_cabbage_tacos.md)
     * [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
+    * [Duck Confit Tacos](full_tacos/duck_confit.md)
     * [Fish Tacos](/full_tacos/fish_tacos.md)
     * [Morrocoan Lamb Tacos](/full_tacos/morrocoan_lamb_taco.md)
     * [Steak, Sweet Potato and Apple Tacos](/full_tacos/teak_sweet_potato_and_apple_tacos.md)
